@@ -1,1 +1,2 @@
 Бот впечатление.
+pip install aiogram==3.0.0b7
