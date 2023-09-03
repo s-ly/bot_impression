@@ -1,2 +1,3 @@
 Бот впечатление.
 pip install aiogram==3.0.0b7
+https://mastergroosha.github.io/aiogram-3-guide/quickstart/

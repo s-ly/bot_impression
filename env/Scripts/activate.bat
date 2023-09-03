@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\bot_impression\env
+set VIRTUAL_ENV=C:\bot_impression\env
 
 if not defined PROMPT set PROMPT=$P$G
 
