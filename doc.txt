@@ -1,3 +1,20 @@
 Бот впечатление.
+
 pip install aiogram==3.0.0b7
+
+Пишем Telegram-ботов с aiogram 3.x
 https://mastergroosha.github.io/aiogram-3-guide/quickstart/
+
+
+git status
+git add -A
+git commit -m "первый комит"
+git push origin main
+
+
+Сделанно:
+    - первый запуск на новой версии aiogram 3
+Делаю:
+    - читаю документацию, первые пробы
+Нужно сделать:
+    - развернуть бота на сервере
